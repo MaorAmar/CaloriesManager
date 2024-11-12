@@ -11,9 +11,9 @@ router.get("/", (req, res) => {
       createdAt: "2024-11-11",
     },
     {
-      name: "",
+      name: "Or Yehudian",
       role: "Developer",
-      email: "moshe@example.com",
+      email: "Or89751@gmail.com",
       createdAt: "2024-11-11",
     },
   ];
